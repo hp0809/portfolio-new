@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Hali Power",
+    "occupation": "Full Stack ReactJS Developer",
+    "description": "",
+    "image": "profile_image.png",
+    "bio": "My name is Hali Power. Relatively new to the tech world, now that I'm in it, I will never be going back! What was lacking for me in my other job choices is the fact I wanted to continuously learn. Web development provides this with a constant changing environment with new technologies to learn and develop! With this passion for learning, I am a very motivated person that loves working with a group as well as working by myself.",
+    "contactmessage": "Get in touch with me to receive further details, network or anything else!",
+    "email": "hpower0809@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "St. John's & Montreal",
+      "state": "",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+            {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hali-m-m-power",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/teaforbunny/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/hp0809",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Skills for Hire Canada",
+        "degree": "UX Design",
+        "graduated": "Ongoing",
+        "description": "St. John's, Canada"
+      },
+      {
+        "school": "University of California, Davis",
+        "degree": "SEO Specialization",
+        "graduated": "October 2020",
+        "description": "Remote"
+      },
+      {
+        "school": "Thinkful/Bloc",
+        "degree": "Full Stack Web Development",
+        "graduated": "October 2019",
+        "description": "Remote"
+      },
+      {
+        "school": "Saint Mary's University",
+        "degree": "Bachelor of Arts in Asian Studies, summa cum laude",
+        "graduated": "March 2016",
+        "description": "Halifax, Canada"
+      },
+      {
+        "school": "Rikkyo University",
+        "degree": "Intercultural Communication",
+        "graduated": "August 2015",
+        "description": "Tokyo, Japan"
+      }
+    ],
+    "work": [
+      {
+        "company": "Self Employed",
+        "title": "Full Stack Web Developer",
+        "years": "October 2019 - Present",
+        "description": ""
+      },
+      {
+        "company": "Private Employer",
+        "title": "ABA Therapist & Respite Worker",
+        "years": "Nov 2019 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "SEO",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+      {
+        "title": "Netflix React Clone",
+        "category": "Netflix built with React.js",
+        "image": "amazon-clone.gif",
+        "url": "https://clone-c02a7.web.app/"
+      },
+      {
+        "title": "Amazon React Clone",
+        "category": "Amazon built with React.js and has fully functional payment with Stripe",
+        "image": "netflix-clone.gif",
+        "url": "https://netflix-react-clone-e4319.web.app/"
+      },
+      {
+        "title": "Sing Along",
+        "category": "A karaoke app designed to show your favourite music video and lyrics along side so you can 'Sing Along'!",
+        "image": "singalong-ss.png",
+        "url": "https://hp0809.github.io/Sing-Along/"
+      },
+      {
+        "title": "WebStore Responsive Design",
+        "category": "React Responsive design example",
+        "image": "responsive-demo.png",
+        "url": "https://hp0809.github.io/TechStoreDemo/"
+      },
+      {
+        "title": "Soapify",
+        "category": "A lye calculator for soap for customized soap production based on various user chosen oil proportions",
+        "image": "soapify-portfolio.gif",
+        "url": "https://hp0809-soapify-client.now.sh/"
+      },
+      {
+        "title": "World Guide",
+        "category": "An informational app displaying various useful information for a chosen country (currency, sights to see, common travel phrases)",
+        "image": "world-guide-portfolio.gif",
+        "url": "https://world-guide-client.hpower0809.now.sh/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
