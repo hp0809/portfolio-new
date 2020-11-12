@@ -117,13 +117,13 @@
       {
         "title": "Netflix React Clone",
         "category": "Netflix built with React.js",
-        "image": "netflix-clone.gif",
+        "image": "netflix-clone.png",
         "url": "https://netflix-react-clone-e4319.web.app/"
       },
       {
         "title": "Amazon React Clone",
         "category": "Amazon built with React.js and has fully functional payment with Stripe",
-        "image": "amazon-clone.gif",
+        "image": "amazon-clone.png",
         "url": "https://clone-c02a7.web.app/"
       },
       {
