@@ -87,7 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+blockquote, q { quotes: #8220 #8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -527,7 +527,8 @@ input::-moz-focus-inner {
 /*  7. Forms  --------------------------------------------------------- */
 
 form { margin-bottom: 24px; }
-fieldset { margin-bottom: 24px; }
+fieldset { margin-bottom: 24px;  width: 75%;
+   margin: 0 auto;}
 
 input[type="text"],
 input[type="password"],
